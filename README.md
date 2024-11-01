@@ -7,4 +7,7 @@
 
 ### [10월 넷째주, 2주차] : js, Git, Github
 24.10.28 Express ([상세 내역 링크](https://github.com/100-hours-a-week/jade-til/blob/main/October/2024-10-28.md))
-  
+24.10.29 Express ([상세 내역 링크](https://github.com/100-hours-a-week/jade-til/blob/main/October/2024-10-29.md))
+24.10.30 Express ([상세 내역 링크](https://github.com/100-hours-a-week/jade-til/blob/main/October/2024-10-30.md))
+24.10.31 Express ([상세 내역 링크](https://github.com/100-hours-a-week/jade-til/blob/main/October/2024-10-31.md))
+24.11.01 Express ([상세 내역 링크](https://github.com/100-hours-a-week/jade-til/blob/main/October/2024-11-01.md))
